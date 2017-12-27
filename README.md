@@ -12,15 +12,3 @@ In this activity, we will plot markers on a map to represent the occurrence of e
 
 4. Create an `overlayMaps` object using the newly created earthquake GeoJSON layer. Pass the `overlayMaps` into the layer control.
 
-## Bonus
-
-* Create a separate overlay layer for the GeoJSON, as well as a base layer using the `streetmap` tile layer and the `darkmap` tile layer. Add these to a layer control. Refer to the previous activity if stuck here.
-
-* Add a popup to each marker to display the time and location of the earthquake at that location.
-
-## Hints
-
-* See Leaflet Documentation on GeoJSON:
-
-  * <http://leafletjs.com/reference.html#geojson>
-  * <http://leafletjs.com/examples/geojson/>
